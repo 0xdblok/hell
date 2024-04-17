@@ -1,6 +1,7 @@
 import React from "react";
 import Image from "next/image";
 import logo from "../asset/logo.png";
+
 export default function Hero() {
   return (
     <div>
