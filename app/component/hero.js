@@ -9,7 +9,13 @@ export default function Hero() {
       </h1>
       <div className="flex justify-center pt-6">
         {" "}
-        <Image src={logo} alt="hero" width={350} height={350} />{" "}
+        <Image
+          className="w-[250px] h-[250px] md:w-[350px] md:h-[350px]"
+          src={logo}
+          alt="hero"
+          width={350}
+          height={350}
+        />{" "}
       </div>
     </div>
   );
