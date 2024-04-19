@@ -16,7 +16,7 @@ export default function Footer() {
             height={30}
           />
         </a>
-        <a href="">
+        <a href="https://t.me/+ZTaGZyr31_M2NTg0">
           {" "}
           <Image
             className="lg:w-[40px] lg:h-[40px]"
