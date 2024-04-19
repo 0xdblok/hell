@@ -9,7 +9,9 @@ export default function Home() {
     <div className="bg-[#F1E0CE] px-12">
       <Hero />
       <Tokenomics />
-      <h1 className="text-center pt-16 font-semibold  font-mono ">CA : </h1>
+      <h1 className="text-center pt-16 font-semibold  font-mono ">
+        CA : 0xF2EAa9Cf7b4Ca7B7dC8ADc6A899a6261C907FcC6
+      </h1>
       <Hell />
 
       <Footer />
